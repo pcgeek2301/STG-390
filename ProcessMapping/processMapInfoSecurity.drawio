@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="N65jU3oOP3dUK5QeFxMB" name="Page-1">
+        <mxGraphModel dx="654" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="Information Security Policies" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="162.72" y="79" width="308.57" height="308.57" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Information Security Goverance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="188.81" y="256" width="256.38" height="256.38" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Data Classification&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;aspect=fixed;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="227.13" y="401" width="179.75" height="179.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;Information Security Program&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="141" y="31" width="352" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Data from Projects" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="277" y="514.38" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
