@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="PbFvnkKS_HCDwxyT2tBo" name="Page-1">
-        <mxGraphModel dx="1090" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="872" dy="936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -61,7 +61,7 @@
                 <mxCell id="21" value="Conduct the POC projects" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="419" y="215" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="edgeStyle=none;html=1;strokeColor=#000000;" parent="1" source="23" target="26" edge="1">
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;strokeColor=#000000;" edge="1" parent="1" source="23" target="30">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="Produce the product findings for each POC project" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -71,10 +71,16 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="A feasibility study report is created" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="180" y="215" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="66" y="215" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="63" y="217" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="66" y="335" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;strokeColor=#000000;" edge="1" parent="1" source="30" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Register for patents and trademarks for anything new" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="182" y="215" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
